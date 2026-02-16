@@ -6,8 +6,7 @@ input {
     height: 10vh;
     border-radius: 100px;
     color: #000;
-    border-color: #e9e9ff;
-    border: solid 1vw;
+    border: solid 1vw #e9e9ff;
     background: #fff;
     font-size: 5vw;
     margin-right: 3vw;
